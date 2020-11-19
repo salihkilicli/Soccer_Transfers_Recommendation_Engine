@@ -35,7 +35,7 @@ Recommendation engine for soccer clubs:
 
 - [WHOSCORED](https://www.whoscored.com/)
 
-- [TRANSFERMRKT](https://www.transfermarkt.us/)
+- [TRANSFERMARKT](https://www.transfermarkt.us/)
 
 ## 5. To do
 
