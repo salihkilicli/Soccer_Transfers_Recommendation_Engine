@@ -18,7 +18,7 @@ Recommendation engine for soccer clubs:
 
 ## 3. Problem Approach ([img Source](https://shubham.chaudhary.xyz/blog/zomato/recommender/overview))
 
-![Problem Approach](https://shubham.chaudhary.xyz/blog/img/recommenders/data-mining-problem.png | width=50)
+![Problem Approach](https://shubham.chaudhary.xyz/blog/img/recommenders/data-mining-problem.png {width=40px height=400px})
 
 ## 4. Possible sources to scrape more data:
 
