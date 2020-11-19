@@ -11,7 +11,7 @@ Recommendation engine for soccer clubs:
   - __Transfer/Loan Cost__, etc.
 
 
-## 2. Recommendation Engines (Systems) Types: ([Source](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2))
+## 2. Types of Recommendation Engines (Systems): ([Source](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2))
 
 ![Recommendation Systems](https://miro.medium.com/max/1000/1*YGlwilDLSG10HWf3u28ErQ.png)
 
