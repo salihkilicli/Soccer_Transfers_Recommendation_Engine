@@ -2,7 +2,7 @@
 
 Recommendation engine for soccer clubs:
 
-Problem Statement:
+## 1. Problem Statement:
 
 - Given a team and a player, who is about to leave the team, how can we find the best replacement with given restrictions: 
 
@@ -14,7 +14,7 @@ Recommendation Engines (Systems) Types: ([Source](https://medium.com/datadriveni
 
 ![Recommendation Systems](https://miro.medium.com/max/1000/1*YGlwilDLSG10HWf3u28ErQ.png)
 
-To do:
+## 2. To do:
 
 - Obtain more data (esp. real life statistics data)
 
@@ -22,7 +22,7 @@ To do:
 
 - Create a website using Heroku app
 
-Possible sources to scrape more data:
+## 3. Possible sources to scrape more data:
 
 - [FBREF](https://fbref.com/en/)
 
