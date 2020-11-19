@@ -13,12 +13,12 @@ Recommendation engine for soccer clubs:
 
 ## 2. Types of Recommendation Engines (Systems): ([img Source](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2))
 
-<img src="https://miro.medium.com/max/1000/1*YGlwilDLSG10HWf3u28ErQ.png" width=70%>
+<center><img src="https://miro.medium.com/max/1000/1*YGlwilDLSG10HWf3u28ErQ.png" width=70%></center>
 
 
 ## 3. Problem Approach ([img Source](https://shubham.chaudhary.xyz/blog/zomato/recommender/overview))
 
-<img src="https://shubham.chaudhary.xyz/blog/img/recommenders/data-mining-problem.png" width=100%, height=80%>
+<center><img src="https://shubham.chaudhary.xyz/blog/img/recommenders/data-mining-problem.png" width=80%, height=80%></center>
 
 ## 4. Possible sources to scrape more data:
 
