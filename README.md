@@ -30,10 +30,10 @@ Recommendation engine for soccer clubs:
 
 - [x] Analyze the current data
 
-- [] Obtain more data (esp. real life statistics data)
+- [ ] Obtain more data (esp. real life statistics data)
 
-- [] Improve visualizations
+- [ ] Improve visualizations
 
-- [] Create a website using Heroku app
+- [ ] Create a website using Heroku app
 
 This repo is in progress...
