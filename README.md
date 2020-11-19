@@ -15,7 +15,7 @@ Recommendation engine for soccer clubs:
 
 <div align="center">
   <img src="https://miro.medium.com/max/1000/1*YGlwilDLSG10HWf3u28ErQ.png" width=70%>
-  <p>[Source](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2)</p>
+  <p><a href="https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2">Source</a></p>
 </div>
 
 
