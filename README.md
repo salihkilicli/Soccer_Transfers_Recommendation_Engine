@@ -4,7 +4,7 @@ Recommendation engine for soccer clubs:
 
 Problem Statement:
 
-- Given a player, who is about to leave the team, how can we find the best replacement with given restrictions 
+- Given a team and a player, who is about to leave the team, how can we find the best replacement with given restrictions: 
 
   - __Age__
   - __Transfer Cost__
