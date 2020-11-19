@@ -10,17 +10,11 @@ Recommendation engine for soccer clubs:
   - __Salary__
   - __Transfer/Loan Cost__, etc.
 
-Recommendation Engines (Systems) Types: ([Source](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2))
+
+## 2. Recommendation Engines (Systems) Types: ([Source](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2))
 
 ![Recommendation Systems](https://miro.medium.com/max/1000/1*YGlwilDLSG10HWf3u28ErQ.png)
 
-## 2. To do:
-
-- Obtain more data (esp. real life statistics data)
-
-- Improve visualizations
-
-- Create a website using Heroku app
 
 ## 3. Possible sources to scrape more data:
 
@@ -31,5 +25,15 @@ Recommendation Engines (Systems) Types: ([Source](https://medium.com/datadriveni
 - [WHOSCORED](https://www.whoscored.com/)
 
 - [TRANSFERMRKT](https://www.transfermarkt.us/)
+
+## 4. To do:
+
+- [x] Analyze the current data
+
+- [] Obtain more data (esp. real life statistics data)
+
+- [] Improve visualizations
+
+- [] Create a website using Heroku app
 
 This repo is in progress...
