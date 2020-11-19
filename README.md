@@ -11,10 +11,14 @@ Recommendation engine for soccer clubs:
   - __Transfer/Loan Cost__, etc.
 
 
-## 2. Types of Recommendation Engines (Systems): ([Source](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2))
+## 2. Types of Recommendation Engines (Systems): ([img Source](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2))
 
 ![Recommendation Systems](https://miro.medium.com/max/1000/1*YGlwilDLSG10HWf3u28ErQ.png)
 
+
+## 3. Problem Approach ([img Source](https://shubham.chaudhary.xyz/blog/zomato/recommender/overview))
+
+![Problem Approach](https://shubham.chaudhary.xyz/blog/img/recommenders/data-mining-problem.png)
 
 ## 3. Possible sources to scrape more data:
 
