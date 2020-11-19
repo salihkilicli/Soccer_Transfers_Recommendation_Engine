@@ -20,7 +20,7 @@ Recommendation engine for soccer clubs:
 
 ![Problem Approach](https://shubham.chaudhary.xyz/blog/img/recommenders/data-mining-problem.png)
 
-## 3. Possible sources to scrape more data:
+## 4. Possible sources to scrape more data:
 
 - [FBREF](https://fbref.com/en/)
 
@@ -30,7 +30,7 @@ Recommendation engine for soccer clubs:
 
 - [TRANSFERMRKT](https://www.transfermarkt.us/)
 
-## 4. To do:
+## 5. To do:
 
 - [x] Analyze the current data
 
