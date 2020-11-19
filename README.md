@@ -24,10 +24,12 @@ To do:
 
 Possible sources to scrape more data:
 
-1) [SOFIFA](https://sofifa.com/)
+- [FBREF](https://fbref.com/en/)
 
-2) [TRANSFERMRKT](https://www.transfermarkt.us/)
+- [SOFIFA](https://sofifa.com/)
 
-3) [WHOSCORED](https://www.whoscored.com/)
+- [WHOSCORED](https://www.whoscored.com/)
 
-4) [FBREF](https://fbref.com/en/)
+- [TRANSFERMRKT](https://www.transfermarkt.us/)
+
+This repo is in progress...
