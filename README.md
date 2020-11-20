@@ -41,11 +41,11 @@ Recommendation engine for soccer clubs:
 
 ## 5. To do
 
-- [ ] Improve visualizations
-
 - [x] Analyze the current data
 
-- [ ] Obtain more data (esp. real life statistics)
+- [ ] Obtain more real life data
+
+- [ ] Improve the visualizations
 
 - [ ] Create a website using Heroku app
 
