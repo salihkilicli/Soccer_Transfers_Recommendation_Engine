@@ -4,11 +4,13 @@ Recommendation engine for soccer clubs:
 
 ## 1. Problem statement
 
-- Given a team and a player, who is about to leave the team, how can we find the best replacement with given restrictions: 
+- Given a soccer club and a player who is about to leave the team, how can we find the best replacement with given restrictions: 
 
   - __Age__
   - __Salary__
-  - __Transfer/Loan Cost__, etc.
+  - __Transfer/Loan Cost__
+  - __Time Constraint__
+  - ...
 
 
 ## 2. Types of recommendation engines (systems)
