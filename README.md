@@ -43,7 +43,7 @@ Recommendation engine for soccer clubs:
 
 - [x] Analyze the current data
 
-- [ ] Obtain more data (esp. real life statistics data)
+- [ ] Obtain more data (esp. real life statistics)
 
 - [ ] Improve visualizations
 
