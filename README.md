@@ -8,8 +8,8 @@ Recommendation engine for soccer clubs:
 
   - __Age__
   - __Salary__
-  - __Transfer/Loan Cost__
   - __Time Constraint__
+  - __Transfer/Loan Cost__
   - ...
 
 
